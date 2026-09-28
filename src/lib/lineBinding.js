@@ -3,7 +3,7 @@
 // 因此這個連結對所有學員都一樣，真正的綁定是靠學員在聊天室輸入自己的學員編號（見 line-webhook）
 
 // Bot Basic ID，未來若換 LINE OA 只需改這裡
-const BOT_BASIC_ID = '615dqzid'
+const BOT_BASIC_ID = '746xmsda'
 
 export const LINE_ADD_FRIEND_URL = `https://line.me/R/ti/p/@${BOT_BASIC_ID}`
 
